@@ -1,0 +1,2 @@
+this project is based on simple storage smart contract using hardhat framework
+Lastly,you can run the verify task locally by passing the address of the contract, the network where it's deployed, and the constructor arguments that were used to deploy it (if any): npx hardhat verify --network mainnet DEPLOYED_CONTRACT_ADDRESS "Constructor argument 1" but programmatically we can write code for it i.e we create a verify function
